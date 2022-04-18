@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1649903752 source:c:\users\gabri\onedrive\documentos\codeblocks\jogodavelha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"jogo.c"
+
+1649904172 c:\users\gabri\onedrive\documentos\codeblocks\jogodavelha\jogo.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"jogo.h"
+
+1649902805 c:\users\gabri\onedrive\documentos\codeblocks\jogodavelha\jogo.h
+
